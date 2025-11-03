@@ -1,4 +1,4 @@
-# GTA:SA Discord RichER Presence (Tradução PT-BR)
+# GTA:SA Discord Rich Presence (Tradução PT-BR)
 
 Este é um fork de tradução do projeto [gtasa-discord-richer-presence](https://github.com/MikMik1011/gtasa-discord-richer-presence) de MikMik1011.
 
