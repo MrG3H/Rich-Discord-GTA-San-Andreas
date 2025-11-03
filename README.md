@@ -24,7 +24,7 @@ O status no Discord é dinâmico e muda com base no que você está fazendo no j
 ## Instalação
 
 1.  Você precisa de um **ASI Loader** para executar este mod. Se você não tiver um, [este é recomendado](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases).
-2.  Baixe o arquivo `RichDiscord-MrGeH.asi` da nossa [página de Releases](https://github.com/MrG3H/Rich-Discord-GTA-San-Andreas/releases/tag/1.0) (link para sua página de releases).
+2.  Baixe o arquivo `RichDiscord-MrGeH.asi` da nossa [página de Releases](https://github.com/MrG3H/Rich-Discord-GTA-San-Andreas/releases/tag/1.0)
 3.  Coloque o arquivo `RichDiscord-MrGeH.asi` diretamente no diretório principal do seu GTA: San Andreas (onde fica o `gta-sa.exe`).
 
 ## Créditos
